@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abx:home|Door43 (abx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abx|d43-abx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abx/archive/master.zip|d43-abx.zip]]
+
+**Recent Changes**
+{{changes>ns = abx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abx|Ethnologue data]]
+
